@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -61,8 +61,8 @@
     </nav>
 
     <section>
-        <h2>Welcome to Fish Care Central!</h2>
-        <p>Explore our website to find valuable information on caring for your fish, different fish species, and expert tips to keep your aquatic friends happy and healthy.</p>
+        <h2>Welcome to our web site </h2>
+        <p>v"Welcome to our web site, where passion meets fins! Dive into a world of vibrant colors and serene underwater beauty. Our ornamental fish care expertise brings aquatic joy to your fingertips. Discover a wealth of knowledge, tips, and a community that shares your love for these living masterpieces. Let's make your aquarium a masterpiece together!".</p>
     </section>
 
     <footer>
