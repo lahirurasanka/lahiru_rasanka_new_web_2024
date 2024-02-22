@@ -59,8 +59,8 @@
         <a href="#">Care Tips</a>
         <a href="#">Contact</a>
     </nav>
-<p><a href="page01.html">READ</a></p>
       <p>*මාලු හදන්න මුලින්ම එන අයට ලෙසියෙන්න්ම හදන්න පුලුවන් මලු වරිග 06 ක් ගැන තමා මෙම ලිපියෙන් කියන්න යන්නෙ. 
+      <p><a href="page01.html">READ</a></p>
     <section>
         <h2>Welcome to our web site </h2>
         <p>"Welcome to our web site, where passion meets fins! Dive into a world of vibrant colors and serene underwater beauty. Our ornamental fish care expertise brings aquatic joy to your fingertips. Discover a wealth of knowledge, tips, and a community that shares your love for these living masterpieces. Let's make your aquarium a masterpiece together!".</p>
