@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -91,36 +91,7 @@ body {
       <p>*මාලු හදන්න මුලින්ම එන අයට ලෙසියෙන්න්ම හදන්න පුලුවන් මලු වරිග 06 ක් ගැන තමා මෙම ලිපියෙන් කියන්න යන්නෙ. 
 
   එවගේම  මන් කලින් සදහන් කරල තියන පරිදි ඔයා මලුහදන්න මුලින්ම පටන් ගන්න කෙනෙක් නම් අවම වශයෙන් අඩි 1 ත් 1.5 අතර ප්‍රමානයේ ටැන්කියක් අවශ්‍යවේ.</p>
-    </div>
-    <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Sep 2, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-    </div>
-  </div>
-  <div class="rightcolumn">
-    <div class="card">
-      <h2>About Me</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-    </div>
-    <div class="card">
-      <h3>Popular Post</h3>
-      <div class="fakeimg">Image</div><br>
-      <div class="fakeimg">Image</div><br>
-      <div class="fakeimg">Image</div>
-    </div>
-    <div class="card">
-      <h3>Follow Me</h3>
-      <p>Some text..</p>
-    </div>
-  </div>
-</div>
-
-<div class="footer">
-  <h2>Footer</h2>
+  
 </div>
 
 </body>
