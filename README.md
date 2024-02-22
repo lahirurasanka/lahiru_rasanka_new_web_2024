@@ -1,98 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
 
-<html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fish Care Central</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
 
-/* Add a gray background color with some padding */
-body {
-  font-family: Arial;
-  padding: 20px;
-  background: #f1f1f1;
-}
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
 
-/* Header/Blog Title */
-.header {
-  padding: 30px;
-  font-size: 40px;
-  text-align: center;
-  background: white;
-}
+        nav {
+            background-color: #444;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
 
-/* Create two unequal columns that floats next to each other */
-/* Left column */
-.leftcolumn {   
-  float: left;
-  width: 75%;
-}
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
 
-/* Right column */
-.rightcolumn {
-  float: left;
-  width: 25%;
-  padding-left: 20px;
-}
+        section {
+            padding: 20px;
+        }
 
-/* Fake image */
-.fakeimg {
-  background-color: #1E90FF;
-  width: 100%;
-  padding: 20px;
-}
-
-/* Add a card effect for articles */
-.card {
-   background-color: white;
-   padding: 20px;
-   margin-top: 20px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Footer */
-.footer {
-  padding: 20px;
-  text-align: center;
-  background: #1E90FF;
-  margin-top: 20px;
-}
-
-/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 800px) {
-  .leftcolumn, .rightcolumn {   
-    width: 100%;
-    padding: 0;
-  }
-}
-</style>
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
 </head>
+
 <body>
+    <header>
+        <h1>Fish Care Central</h1>
+        <p>Your go-to source for all things fish care</p>
+    </header>
 
-<div class="header">
-  <h2>LRGUIDE
- </h2>
-</div>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About Us</a>
+        <a href="#">Fish Species</a>
+        <a href="#">Care Tips</a>
+        <a href="#">Contact</a>
+    </nav>
 
-<div class="row">
-  <div class="leftcolumn">
-    <div class="card">
-      <h2>Blogs</h2>
-      <h5><b>ලේසියෙන්ම හදන්න පුළුවන් විසිතුරු  මසුන්  වර්ග</b> , Dec 7, 2022</h5>
-       <image src="C:\Users\Lahiru\Pictures\images\Reef-aquarium.jpg"width="990" height="500"</div>
-      <p><a href="page01.html">READ</a></p>
-      <p>*මාලු හදන්න මුලින්ම එන අයට ලෙසියෙන්න්ම හදන්න පුලුවන් මලු වරිග 06 ක් ගැන තමා මෙම ලිපියෙන් කියන්න යන්නෙ. 
+    <section>
+        <h2>Welcome to Fish Care Central!</h2>
+        <p>Explore our website to find valuable information on caring for your fish, different fish species, and expert tips to keep your aquatic friends happy and healthy.</p>
+    </section>
 
-  එවගේම  මන් කලින් සදහන් කරල තියන පරිදි ඔයා මලුහදන්න මුලින්ම පටන් ගන්න කෙනෙක් නම් අවම වශයෙන් අඩි 1 ත් 1.5 අතර ප්‍රමානයේ ටැන්කියක් අවශ්‍යවේ.</p>
-  
-</div>
-
+    <footer>
+        <p>&copy; 2024 Fish Care Central. All rights reserved.</p>
+    </footer>
 </body>
+
 </html>
