@@ -61,7 +61,7 @@
     </nav>
 
     
-      <p><h1>*මාලු හදන්න මුලින්ම එන අයට ලෙසියෙන්න්ම හදන්න පුලුවන් මලු වරිග 06 ක් ගැන තමා මෙම ලිපියෙන් කියන්න යන්නෙ.</h1> <p><a href="page01.html">READ</a></p>
+      </h1> <p><a href="page02.html">READ</a></h1></p>
       
     <section>
         <h2>Welcome to our web site </h2>
