@@ -61,7 +61,7 @@
     </nav>
 
     
-      </h1> <p><a href="page02.html">READ</a></h1></p>
+      <p><a href="page02.html">READ</a><</p>
       
     <section>
         <h2>Welcome to our web site </h2>
